@@ -83,7 +83,7 @@ This project uses the **Groq API** for free and fast LLM inference.
 ```bash
 pip install -r requirements.txt
 
-## 📊 Use Cases
+### 📊 Use Cases
 - College students  
 - Online learners  
 - Lecture revision  
@@ -92,7 +92,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🧠 Learning Outcomes
+### 🧠 Learning Outcomes
 - Understanding Speech-to-Text systems  
 - Applying Generative AI in real-world applications  
 - Streamlit state management  
@@ -101,7 +101,8 @@ pip install -r requirements.txt
 
 ---
 
-## 🏁 Conclusion
+### 🏁 Conclusion
 The Lecture Voice-to-Notes Generator provides an effective solution for automated lecture understanding. By combining speech recognition and generative AI, the system improves learning efficiency and reduces manual effort for students.
+
 
 
